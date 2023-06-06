@@ -1,9 +1,9 @@
 # movie-recomendation-with-bert4rec
 
 ### About the model.
-This project is coded for the transformer-based model, Bert4Rec. Bert4Rec is similar to Bert for NLP because both are transformer-based. This one differs since it is a transformer network targeted at predicting "hidden", "masked", or `new`, movies from a user's history.
+This project is coded for the transformer-based model, Bert4Rec. Bert4Rec is similar to Bert for NLP because both are transformer-based. This one differs since it is a transformer network targeted at predicting "hidden", "masked", or `new`, movies based on a user's history. In the notebook, `list_movies` represents the user's watch history.
 
-The edition in this notebook is untrained and, consequently, inaccurate, and hilarious.
+The edition of the model in this notebook is untrained, inaccurate, and hilarious.
 
 The complete dataset is available [here](https://grouplens.org/datasets/movielens/25m/).
 
