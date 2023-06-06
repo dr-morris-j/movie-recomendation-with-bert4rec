@@ -8,7 +8,7 @@ The edition in this notebook is untrained and, consequently, inaccurate, and hil
 The complete dataset is available [here](https://grouplens.org/datasets/movielens/25m/).
 
 ### About the dataset 
-The [MovieLens-25m dataset](https://grouplens.org/datasets/movielens/25m/) contains 25 million ratings and one million tag applications on 62,000 movies by 162,000 users.
+The [MovieLens-25m dataset](https://grouplens.org/datasets/movielens/25m/) contains 25 million ratings and one million tags on 62,000 movies by 162,000 users.
 
 This dataset also contains a tag genome with 15 million scores across 1,129 tags.
 
