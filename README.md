@@ -12,3 +12,5 @@ The [MovieLens-25m dataset](https://grouplens.org/datasets/movielens/25m/) conta
 
 This dataset also contains a tag genome with 15 million scores across 1,129 tags.
 
+The dataset was released December, 2019.
+
