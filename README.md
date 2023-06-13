@@ -21,5 +21,5 @@ The dataset was released December, 2019.
 + Python
 + PyTorch
 + PyTorch Lightning
-+ Movielens
++ MovieLens
 + Jupyter Notebook
